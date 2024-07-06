@@ -11,8 +11,8 @@
 | 4. Сборный Проект №1 | [Исследование российского кинопроката](https://github.com/chernyakid/russian-film-distribution) | `Jupyter` `Python` `Pandas` `NumPy` `Seaborn` | 
 | 5. Базовый SQL | [Анализ рынка инвестиций в стартапы](https://github.com/chernyakid/startup-investments) | `SQL` | 
 | 6. Как рассказать историю с помощью данных | [Исследование рынка заведений общественного питания Москвы](https://github.com/chernyakid/moscow-catering-research) | `Jupyter` `Python` `Pandas` `Seaborn` `Folium` | 
-| 7. Построение дашбордов в Tableau | готов, в процессе оформления |  |
-| 8. Сборный проект №2 | в работе |  |
+| 7. Построение дашбордов в Tableau | [Исследование конференций TED](https://public.tableau.com/app/profile/inna.chernyak/viz/TEDProject_17194762317220/sheet21) |  `Tableau` |
+| 8. Сборный проект №2 | в работе | `Jupyter` `Python` `SQL` `Tableau` |
 | 9. Анализ бизнес-показателей |  |  | 
 | 10. Продвинутый SQL |  |  | 
 | 11. Статистический анализ данных |  |  | 
