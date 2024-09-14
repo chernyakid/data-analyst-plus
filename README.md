@@ -13,7 +13,7 @@
 | 6. Как рассказать историю с помощью данных | [Исследование рынка заведений общественного питания Москвы](https://github.com/chernyakid/moscow-catering-research) | `Jupyter` `Python` `Pandas` `Seaborn` `Folium` | 
 | 7. Построение дашбордов в Tableau | [Исследование конференций TED](https://public.tableau.com/app/profile/inna.chernyak/viz/TEDProject_17194762317220/sheet21) |  `Tableau` |
 | 8. Сборный проект №2 | [Анализ NPS среди клиентов телекоммуникационной компании](https://github.com/chernyakid/telecom_nps) | `Jupyter` `Python` `SQL` `Tableau` |
-| 9. Анализ бизнес-показателей |  |  | 
+| 9. Анализ бизнес-показателей | [Анализ бизнес-показателей развлекательного приложения Procrastinate Pro+](https://github.com/chernyakid/procrastinate-pro-app) | `Jupyter` `Python` `Pandas` `Seaborn` | 
 | 10. Продвинутый SQL | [Анализ постов StackOverflow за 2008 год](https://github.com/chernyakid/stackoverflow) | `SQL` `PostgreSQL` | 
 | 11. Статистический анализ данных |  |  | 
 | 12. Принятие решений в бизнесе |  |  | 
