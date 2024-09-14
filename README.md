@@ -14,7 +14,7 @@
 | 7. Построение дашбордов в Tableau | [Исследование конференций TED](https://public.tableau.com/app/profile/inna.chernyak/viz/TEDProject_17194762317220/sheet21) |  `Tableau` |
 | 8. Сборный проект №2 | [Анализ NPS среди клиентов телекоммуникационной компании](https://github.com/chernyakid/telecom_nps) | `Jupyter` `Python` `SQL` `Tableau` |
 | 9. Анализ бизнес-показателей |  |  | 
-| 10. Продвинутый SQL |  |  | 
+| 10. Продвинутый SQL | [Анализ постов StackOverflow за 2008 год](https://github.com/chernyakid/stackoverflow) | `SQL` `PostgreSQL` | 
 | 11. Статистический анализ данных |  |  | 
 | 12. Принятие решений в бизнесе |  |  | 
 | 13. Основы машинного обучения |  |  |  
