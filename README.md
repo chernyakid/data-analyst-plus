@@ -3,7 +3,7 @@
 > https://practicum.yandex.ru/data-analyst-plus/
 
 
-| Модуль | Проект | Теги |
+| Модуль | Проект | Тех. стек |
 | :-------------------- | :-------------------- | :-------------------- | 
 | 1. Базовый Python | [Исследование поведения пользователей Яндекс Музыки](https://github.com/chernyakid/music-of-big-cities) | `Jupyter` `Python` `Pandas` | 
 | 2. Предобработка данных | [Исследование надёжности заёмщиков](https://github.com/chernyakid/borrowers-reliability-research) |  `Jupyter` `Python` `Pandas` | 
