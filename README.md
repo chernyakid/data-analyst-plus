@@ -16,7 +16,7 @@
 | 9. Анализ бизнес-показателей | [Анализ бизнес-показателей развлекательного приложения Procrastinate Pro+](https://github.com/chernyakid/procrastinate-pro-app) | `Jupyter` `Python` `Pandas` `Seaborn` | 
 | 10. Продвинутый SQL | [Анализ постов StackOverflow за 2008 год](https://github.com/chernyakid/stackoverflow) | `SQL` `PostgreSQL` | 
 | 11. Мастерская данных | [Анализ различий в вакансиях для Аналитиков данных и Системных аналитиков на HH.ru](https://github.com/chernyakid/analyst-vacancies) | `Jupyter` `Python` `Pandas` `Seaborn` | 
-| 12. Статистический анализ данных |  |  | 
+| 12. Статистический анализ данных | [Статистический анализ аренды самокатов сервиса GoFast](https://github.com/chernyakid/gofast-research) | `Jupyter` `Python` `Pandas` `Seaborn` `SciPy`| 
 | 13. Принятие решений в бизнесе |  |  | 
 | 14. Основы машинного обучения |  |  |  
 | 15. Выпускной проект |  |  |  
