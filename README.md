@@ -18,5 +18,5 @@
 | 11. Мастерская данных | [Анализ различий в вакансиях для Аналитиков данных и Системных аналитиков на HH.ru](https://github.com/chernyakid/analyst-vacancies) | `Jupyter` `Python` `Pandas` `Seaborn` | 
 | 12. Статистический анализ данных | [Статистический анализ аренды самокатов сервиса GoFast](https://github.com/chernyakid/gofast-research) | `Jupyter` `Python` `Pandas` `Seaborn` `SciPy`| 
 | 13. Принятие решений в бизнесе | [Принятие решений в бизнесе на основе анализа A/B-теста](https://github.com/chernyakid/ab-test) | `Jupyter` `Python` `Pandas` `SciPy` | 
-| 14. Основы машинного обучения |  |  |  
+| 14. Основы машинного обучения | [Разработка стратегии по удержанию клиентов сети фитнес-центров](https://github.com/chernyakid/retaining-fitness-center-customers) | `Jupyter` `Python` `Pandas` `Seaborn` `SciPy` `Sklearn` |  
 | 15. Выпускной проект |  |  |  
