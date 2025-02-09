@@ -20,4 +20,5 @@
 | 13. Принятие решений в бизнесе | [Принятие решений в бизнесе на основе анализа A/B-теста](https://github.com/chernyakid/ab-test) | `Jupyter` `Python` `Pandas` `SciPy` | 
 | 14. Основы машинного обучения | [Разработка стратегии по удержанию клиентов сети фитнес-центров](https://github.com/chernyakid/retaining-fitness-center-customers) | `Jupyter` `Python` `Pandas` `Seaborn` `SciPy` `Sklearn` |  
 | 15. Дополнительная практика | [Выявление закономерностей успешности компьютерных игр](https://github.com/chernyakid/game-success-analysis) | `Jupyter` `Python` `Pandas` `NumPy` `Seaborn` `SciPy`|  
-| 16. Выпускной проект |  |  |  
+| 16. Выпускной проект ч.1 | [Анализ оттока клиентов в Метанпромбанке](https://github.com/chernyakid/bank-clients-churn-research) | `Jupyter` `Python` `Pandas` `NumPy` `Seaborn` `SciPy` |  
+| 17. Выпускной проект ч.2 | [Анализ данных сервиса для чтения книг по подписке](https://github.com/chernyakid/book-reading-service-analysis) | `Jupyter` `Python` `SQL` | 
